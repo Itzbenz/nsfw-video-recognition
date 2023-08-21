@@ -1,0 +1,7 @@
+tensorflow==2.13.*
+tensorflow-hub
+vidgear
+yt_dlp
+opencv-python
+imutils
+#nvidia-cudnn-cu11==8.6.0.163
